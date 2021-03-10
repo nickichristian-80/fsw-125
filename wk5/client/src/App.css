@@ -1,0 +1,12 @@
+html {
+    background-image: url("http://www.strangebeaver.com/wp-content/uploads/2016/05/wpw54/wallpaper-54-18.jpg");
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.title {
+    color: #fafa1b;
+    font-size: 60px;
+}
