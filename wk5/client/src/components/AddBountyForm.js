@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import './add-bounty-form.css'
 
+
+
 function AddBountyForm(props){
 
     const initInputs = { firstName: props.firstName || "", lastName: props.lastName || "", living: props.living || "", bountyAmount: props.bountyAmount || "", type: props.type || ""  }
